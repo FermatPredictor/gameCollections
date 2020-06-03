@@ -7,3 +7,6 @@
 然後寫一支程式，將裡面的英文單字截取出來，可以設定合理的機率值使得出現的單字不要太過罕見<br>
 截取英文文章單字的程式: [selectWord](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/selectWord.py)
 (目前設定是出現比率>1/10000算常用字; 出現比率>1/100000算可收集字，條件放很鬆)
+
+| 簡介 | 主程式| 需要的檔案|
+| --- | --- | --- |
