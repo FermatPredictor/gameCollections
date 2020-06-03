@@ -12,3 +12,4 @@
 | --- | --- | --- |
 |猜英文單字的小遊戲|[nineLive](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/nineLive.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
 |利用單字庫的單字隨機生成密碼|[passwordMaker](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/passwordMaker.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
+|如果a-z對應到1-26，哪些單字的分數為100|[score_of_word](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/score_of_word.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
