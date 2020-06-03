@@ -8,5 +8,6 @@
 截取英文文章單字的程式: [selectWord](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/selectWord.py)
 (目前設定是出現比率>1/10000算常用字; 出現比率>1/100000算可收集字，條件放很鬆)
 
-| 簡介 | 主程式| 需要的檔案|
+| 簡介 | 主程式 | 需要的檔案|
 | --- | --- | --- |
+|猜英文單字的小遊戲|[nineLive](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/nineLive.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
