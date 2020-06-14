@@ -14,3 +14,16 @@
 |猜英文單字的小遊戲|[nineLive](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/nineLive.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
 |利用單字庫的單字隨機生成密碼|[passwordMaker](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/passwordMaker.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
 |如果a-z對應到1-26，哪些單字的分數為100|[score_of_word](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/score_of_word.py)|[word.txt](https://github.com/FermatPredictor/gameCollections/blob/master/LetterGame/word.txt) (如果有自己的單字庫，亦可換成自己的)|
+
+
+## Drop or hop
+nim game的一種，在一個n\*m的棋盤上遊玩，棋子只有單色<br>
+目前有兩種規則:<br>
+(1) drop or hop:<br>
+每次輪到己方時，可以選擇一個棋子，往右下方向k格跳躍，<br>
+或在任意格子上無中生有放一個棋子。<br>
+(2) breed or hop:<br>
+每次輪到己方時，可以選擇一個棋子，往右下方向k格跳躍，<br>
+或往上、下、左、右四個方向繁殖，<br>
+無法移動者敗<br>
+程式: [drop_or_hop](https://github.com/FermatPredictor/gameCollections/blob/master/Drop_or_hop/drop_or_hop.py)
