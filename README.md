@@ -27,3 +27,8 @@ nim game的一種，在一個n\*m的棋盤上遊玩，棋子只有單色<br>
 或往上、下、左、右四個方向繁殖，<br>
 無法移動者敗<br>
 程式: [drop_or_hop](https://github.com/FermatPredictor/gameCollections/blob/master/Drop_or_hop/drop_or_hop.py)
+
+## 單人解謎益智遊戲
+| 簡介 | c++ | python |
+| --- | --- | --- |
+|n皇后問題，如何在西洋棋盤擺n個皇后而不會互相攻擊?|||
