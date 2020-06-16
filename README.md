@@ -31,4 +31,4 @@ nim game的一種，在一個n\*m的棋盤上遊玩，棋子只有單色<br>
 ## 單人解謎益智遊戲
 | 簡介 | c++ | python |
 | --- | --- | --- |
-|n皇后問題，如何在西洋棋盤擺n個皇后而不會互相攻擊?|||
+|n皇后問題，如何在西洋棋盤擺n個皇后而不會互相攻擊?|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/Puzzle/n_queens.cpp)|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/Puzzle/n_queens.py)|
