@@ -32,7 +32,7 @@ nim game的一種，在一個n\*m的棋盤上遊玩，棋子只有單色<br>
 | 簡介 | c++ | python |
 | --- | --- | --- |
 |n皇后問題，如何在西洋棋盤擺n個皇后而不會互相攻擊?|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/Puzzle/n_queens.cpp)|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/Puzzle/n_queens.py)|
-|馬踏棋盤(又稱騎士漫步)|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/HorseWalk/horsewalk.cpp)|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/HorseWalk/horsewalk.py)|
+|馬踏棋盤(又稱騎士漫步)|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/Puzzle/horsewalk.cpp)|[Code](https://github.com/FermatPredictor/gameCollections/blob/master/Puzzle/horsewalk.py)|
 
 ## 下棋遊戲
 | 簡介 | c++ | python |
