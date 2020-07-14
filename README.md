@@ -40,3 +40,9 @@ nim game的一種，在一個n\*m的棋盤上遊玩，棋子只有單色<br>
 | --- | --- | --- |
 |黑白棋||[Code](https://github.com/FermatPredictor/gameCollections/blob/master/ChessGame/reversi.py)|
 |井字遊戲||[Code](https://github.com/FermatPredictor/gameCollections/blob/master/ChessGame/ticTacToe.py)|
+
+## 下棋專用演算法
+| 簡介 | c++ | python |
+| --- | --- | --- |
+|alpha-beta剪枝- 黑白棋||[Code]()|
+|比較不同ai的勝率模擬- 黑白棋||[Code]()|
