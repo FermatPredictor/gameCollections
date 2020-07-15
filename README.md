@@ -46,3 +46,4 @@ nim game的一種，在一個n\*m的棋盤上遊玩，棋子只有單色<br>
 | --- | --- | --- |
 |alpha-beta剪枝- 黑白棋||[Code](https://github.com/FermatPredictor/gameCollections/blob/master/ChessGame/alpha_beta_reversi.py)|
 |比較不同ai的勝率模擬- 黑白棋||[Code](https://github.com/FermatPredictor/gameCollections/blob/master/ChessGame/ai_simulate_reversi.py)|
+|alpha-beta剪枝- 井字棋(有驗過程式正確性)||[Code](https://github.com/FermatPredictor/gameCollections/blob/master/ChessGame/alpha_beta_tictactoe.py)|
